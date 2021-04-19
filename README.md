@@ -15,3 +15,4 @@ test alexandra
 
 
 [UUU]WDUW
+alex chiru nu stie nimic
