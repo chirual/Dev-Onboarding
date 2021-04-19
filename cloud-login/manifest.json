@@ -1,0 +1,50 @@
+{
+    "workshoptitle": "Get Started with Oracle Cloud Infrastructure Core Services",
+    "help": "livelabs-help-db_us@oracle.com",
+    "help": "livelabs-help-oci_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Getting Started",
+            "description": "Login to Oracle Cloud",
+            "filename": "https://raw.githubusercontent.com/oracle/learning-library/master/common/labs/cloud-login/cloud-login-livelabs2.md"
+        },
+        {
+            "title": "Introduction",
+            "filename": "../livelabs/getting-started-with-OCI.md"
+        },
+        {
+            "title": "Lab 1: Generate SSH Keys",
+            "filename": "https://raw.githubusercontent.com/oracle/learning-library/master/common/labs/generate-ssh-key-cloud-shell/generate-ssh-keys-cloud-shell.md"
+        },
+        {
+            "title": "Lab 2: Virtual Cloud Networks",
+            "type": "livelabs",
+            "filename": "../../../virtual-cloud-networks/vcn/virtual-cloud-networks.md"
+        },
+        {
+            "title": "Lab 3: Create a Compute Service",
+            "type": "livelabs",
+            "filename": "../../../compute-service/cs/compute-service.md"
+        },
+        {
+            "title": "Lab 4: Block Volume",
+            "type": "livelabs",
+            "filename": "../../../block-volume/bv/block-volume.md"
+        },
+        {
+            "title": "Lab 5: Object Storage",
+            "type": "livelabs",
+            "filename": "../../../object-storage/os/object-storage.md"
+        },
+        {
+            "title": "Need Help?",
+            "description": "Solutions to Common Problems and Directions for Receiving Live Help",
+            "filename": "https://raw.githubusercontent.com/oracle/learning-library/master/common/labs/need-help/need-help-livelabs.md"
+        },
+        {
+            "title": "Need Help?",
+            "description": "Solutions to Common Problems and Directions for Receiving Live Help",
+            "filename": "https://raw.githubusercontent.com/oracle/learning-library/master/oci-library/need-help/need-help-livelabs.md"
+        }
+    ]
+}
