@@ -15,7 +15,7 @@ To sign in to the Console, you need the following:
 - Tenant, User name and Password
 - URL for the Console: [https://cloud.oracle.com/](https://cloud.oracle.com/)
 
-## **STEP 1**: Create Your VCN
+## **STEP 1**: Create Your VCN (Virtual Cloud Network)
 
 <if type="livelabs">
 You are running this workshop in a LiveLabs environment. Our LiveLabs environments use a pre-configured Virtual Cloud Network (VCN), so you will not create a VCN in this workshop. However, you can see how a VCN is created  in Oracle Cloud Infrastructure by watching this short video:
